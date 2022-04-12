@@ -1,6 +1,7 @@
 # ToDo Compose
 - JetpackCompose
-- MVVM
+- Viewmodel
+- Hilt
 - Room DB
 - Compose Navigation
 - Preferences DataStore
