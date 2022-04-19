@@ -15,7 +15,7 @@ Analytics
 ## Author
 - [@elenamelnikova](https://github.com/canadianExperience)
 
-<a href="https://play.google.com/store/apps/details?id=com.me.reminder"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=100px /></a>
+<a href="https://play.google.com/store/apps/details?id=com.me.todocompose"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=100px /></a>
 
 ## Screens Demo
 
